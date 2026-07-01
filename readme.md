@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Fabricio Queiroz 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor em formação · Estudante de Ciência da Computação · Araçatuba – SP</strong>
+  <strong>Estagiário de TI · Estudante de Ciência da Computação · Araçatuba – SP</strong>
 </p>
 
 <p align="center">
