@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Estudante de **Ciência da Computação** — 5º semestre (UNIP)
+- 🎓 Estudante de **Ciência da Computação** — 6º semestre (UNIP)
 - 📚 Técnico em **Desenvolvimento de Sistemas** (ETEC)
 - 💼 Estagiário de TI na **Nitatori Advogados**
 - 📍 Araçatuba – SP, Brasil
