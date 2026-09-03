@@ -1,7 +1,7 @@
 ## Fabricio Queiroz
 
 Estagiario de Desenvolvimento de Software na **Nitatori Advogados**.
-Ciencia da Computacao na UNIP Aracatuba — 6o semestre.
+Ciencia da Computacao na UNIP Aracatuba — 6º semestre.
 
 O que me interessa e o pedaco onde os dois mundos se encontram: estou dentro da
 operacao, vejo a dor de perto e escrevo o software que resolve. As duas ferramentas
