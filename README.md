@@ -1,6 +1,6 @@
 ## Fabricio Queiroz
 
-Estagiario de TI na **Nitatori Advogados**, migrando para desenvolvimento de software.
+Estagiario de Desenvolvimento de Software na **Nitatori Advogados**.
 Ciencia da Computacao na UNIP Aracatuba — 6o semestre.
 
 O que me interessa e o pedaco onde os dois mundos se encontram: estou dentro da
