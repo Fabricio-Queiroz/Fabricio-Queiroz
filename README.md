@@ -27,6 +27,10 @@ App Windows, nao exige Python instalado. 29 testes automatizados.
 Monitoramento ambiental com servidor TCP, alertas multicast UDP, criptografia
 AES-256 e clientes JavaFX. O projeto onde aprendi rede de verdade.
 
+**[APS-Analise-Algoritmos](https://github.com/Fabricio-Queiroz/APS-Analise-Algoritmos)** · Java
+Compara Bubble, Insertion, Merge e Quick Sort medindo tempo, comparacoes e trocas —
+nao so o relogio. Interface Swing para variar cenario e tamanho da entrada.
+
 **[segundo-cerebro](https://github.com/Fabricio-Queiroz/segundo-cerebro)** · Node · React
 App full-stack para guardar ideias e recuperar por MCP.
 
