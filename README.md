@@ -15,11 +15,6 @@
 Estagiário de Desenvolvimento de Software na **Nitatori Advogados**, cursando o
 6º semestre de Ciência da Computação (UNIP) e técnico em Desenvolvimento de
 Sistemas pela ETEC.
-
-Trabalho no ponto em que a operação encontra o código: acompanho o problema de
-perto e entrego o software que o resolve. As ferramentas na seção **Em produção**
-nasceram de dores reais do escritório e são usadas diariamente por outras pessoas.
-
 ## Stack
 
 **Linguagens** — Java · Python · JavaScript · TypeScript
