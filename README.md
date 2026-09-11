@@ -42,9 +42,3 @@ Onde eu forço a mão em coisa que o dia a dia ainda não pediu.
 - **[Gestão de Funcionários (JDBC)](https://github.com/Fabricio-Queiroz/gestao-funcionario-jdbc)** — CRUD em Java puro com JDBC, PreparedStatement e DAO, sobre SQL Server em Docker. Sem framework, para ver o que o framework esconde. `Java · SQL Server`
 - **[Segundo Cérebro](https://github.com/Fabricio-Queiroz/segundo-cerebro)** — full-stack para guardar ideias e recuperá-las via MCP. `Node.js · React · PostgreSQL`
 - **[Painel de Cotações](https://github.com/Fabricio-Queiroz/painel-cotacoes)** — USD, EUR e BTC em BRL em tempo real, consumindo API pública. `JavaScript`
-
----
-
-## Onde estou mirando
-
-O salto de *script que funciona* para *software que uma equipe mantém*: testes automatizados, CI, containerização e APIs REST para expor os projetos além da tela local.
