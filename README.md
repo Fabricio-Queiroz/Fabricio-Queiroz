@@ -72,15 +72,11 @@ O que me interessa é o ponto onde os dois mundos se encontram: estou dentro da 
 
 ---
 
-## 📈 GitHub Stats
+## 🌱 O que estou estudando agora
 
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fabricio-Queiroz&theme=tokyonight" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fabricio-Queiroz&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Fabricio-Queiroz&theme=tokyonight&hide_border=true&locale=pt_BR" />
-</p>
+- Levar um projeto de *script que funciona* para *software que uma equipe mantém*: **testes automatizados**, **CI** e **Docker**
+- **APIs REST** — expor os projetos por trás de uma API, além da interface local
+- Aprofundar **Java** com boas práticas e **SQL Server**, do banco à aplicação
 
 ---
 
