@@ -75,8 +75,11 @@ O que me interessa é o ponto onde os dois mundos se encontram: estou dentro da 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fabricio-Queiroz&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Queiroz&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fabricio-Queiroz&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fabricio-Queiroz&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Fabricio-Queiroz&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </p>
 
 ---
