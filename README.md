@@ -5,7 +5,7 @@ $ whoami
 Estagiário em Desenvolvimento de Software na Nitatori Advogados.
 
 $ stack --daily
-python · java · javascript · typescript · sql server · docker
+python · typescript · docker · sql server
 ```
 
 <sub>
