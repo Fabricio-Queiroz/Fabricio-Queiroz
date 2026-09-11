@@ -1,85 +1,53 @@
-<h1 align="center">Olá, eu sou Fabricio Queiroz 👋</h1>
+<h1 align="center">Fabricio Queiroz</h1>
 
 <p align="center">
-  <strong>Estagiário de Desenvolvimento de Software · Estudante de Ciência da Computação · Araçatuba – SP</strong>
+  Desenvolvedor de Software · Estudante de Ciência da Computação · Araçatuba, Brasil
 </p>
 
 <p align="center">
-  <a href="https://fabricio-queiroz.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-6366f1?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:fabriciooqueirozz05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/fabricio-queiroz0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://fabricio-queiroz.github.io">Portfólio</a> ·
+  <a href="https://www.linkedin.com/in/fabricio-queiroz0/">LinkedIn</a> ·
+  <a href="mailto:fabriciooqueirozz05@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mim
+Estagiário de Desenvolvimento de Software na **Nitatori Advogados**, cursando o
+6º semestre de Ciência da Computação (UNIP) e técnico em Desenvolvimento de
+Sistemas pela ETEC.
 
-- 💼 **Estagiário de Desenvolvimento de Software** na **Nitatori Advogados**
-- 🎓 Estudante de **Ciência da Computação** — 6º semestre (UNIP)
-- 📚 Técnico em **Desenvolvimento de Sistemas** (ETEC)
-- 📍 Araçatuba – SP, Brasil
+Trabalho no ponto em que a operação encontra o código: acompanho o problema de
+perto e entrego o software que o resolve. As ferramentas na seção **Em produção**
+nasceram de dores reais do escritório e são usadas diariamente por outras pessoas.
 
-O que me interessa é o ponto onde os dois mundos se encontram: estou dentro da operação, vejo a dor de perto e escrevo o software que resolve. As ferramentas em **uso real** abaixo nasceram assim — de um problema concreto do escritório, e são usadas por gente que não sou eu.
+## Stack
 
----
+**Linguagens** — Java · Python · JavaScript · TypeScript
+**Web** — React · Node.js · HTML · CSS
+**Dados** — SQL Server · PostgreSQL · MySQL
+**Infra e ferramentas** — Docker · Git · PowerShell · Windows Server
 
-## 🛠️ Tecnologias
+## Em produção
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+Software com uso real, resolvendo um problema concreto.
 
----
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [Achatador de PDF](https://github.com/Fabricio-Queiroz/achatador-de-pdf) | Remove campos de formulário e assinaturas de PDFs preservando o texto pesquisável, para viabilizar o peticionamento eletrônico. Processa localmente — nenhum documento sai da máquina. | Python |
+| [Automatizador de Holerites](https://github.com/Fabricio-Queiroz/automatizador-de-holerites) | Une e renomeia holerites em PDF por ordem cronológica de competência. Aplicativo Windows autônomo, com 29 testes automatizados. | Python |
 
-## 🚀 Em uso real
+## Acadêmicos e estudo
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [📄 Achatador de PDF](https://github.com/Fabricio-Queiroz/achatador-de-pdf) | Remove campos de formulário e assinatura de PDFs mantendo o texto pesquisável. Nasceu do peticionamento eletrônico recusar documentos vindos de plataforma de assinatura. Roda offline — documento sigiloso não sai da máquina | Python |
-| [🧾 Automatizador de Holerites](https://github.com/Fabricio-Queiroz/automatizador-de-holerites) | Junta e renomeia holerites em PDF por ordem cronológica de competência. App Windows, não exige Python instalado. 29 testes automatizados | Python |
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [Monitoramento Rio Tietê](https://github.com/Fabricio-Queiroz/monitoramento-tiete-aps) | Monitoramento ambiental com servidor TCP autenticado, alertas multicast UDP, criptografia AES-256, persistência em SQLite e clientes CLI e JavaFX. | Java |
+| [Análise de Algoritmos de Ordenação](https://github.com/Fabricio-Queiroz/APS-Analise-Algoritmos) | Comparação de Bubble, Insertion, Merge e Quick Sort medindo tempo, comparações e trocas, com interface Swing para variar cenário e tamanho de entrada. | Java |
+| [Gestão de Funcionários (JDBC)](https://github.com/Fabricio-Queiroz/gestao-funcionario-jdbc) | CRUD em Java puro com JDBC, PreparedStatement e padrão DAO, sobre SQL Server em Docker. | Java · JDBC · SQL Server |
+| [Segundo Cérebro](https://github.com/Fabricio-Queiroz/segundo-cerebro) | Aplicação full-stack para registrar ideias e recuperá-las via MCP. | Node.js · React · PostgreSQL |
+| [Painel de Cotações](https://github.com/Fabricio-Queiroz/painel-cotacoes) | Cotações de USD, EUR e BTC em BRL em tempo real, consumindo API pública. | JavaScript · HTML · CSS |
 
-## 📌 Estudo e faculdade
+## Foco atual
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [🌊 Monitoramento Rio Tietê](https://github.com/Fabricio-Queiroz/monitoramento-tiete-aps) | Monitoramento ambiental com servidor TCP autenticado, alertas multicast UDP, criptografia AES-256, SQLite e clientes CLI e JavaFX. O projeto onde aprendi rede de verdade | Java |
-| [📊 Análise de Algoritmos de Ordenação](https://github.com/Fabricio-Queiroz/APS-Analise-Algoritmos) | Compara Bubble, Insertion, Merge e Quick Sort medindo tempo, comparações e trocas — não só o relógio. Interface Swing para variar cenário e tamanho da entrada | Java |
-| [👥 Gestão de Funcionários JDBC](https://github.com/Fabricio-Queiroz/gestao-funcionario-jdbc) | CRUD de funcionários em Java puro com JDBC, PreparedStatement e DAO. SQL Server em Docker, sem framework | Java · JDBC · SQL Server · Docker |
-| [🧠 Segundo Cérebro](https://github.com/Fabricio-Queiroz/segundo-cerebro) | App full-stack para guardar ideias e recuperá-las via MCP | Node.js · React · PostgreSQL |
-| [🪙 Painel de Cotações](https://github.com/Fabricio-Queiroz/painel-cotacoes) | Cotações em tempo real de USD, EUR e BTC em BRL via API | JS · HTML · CSS |
-| [🌐 Portfólio Pessoal](https://fabricio-queiroz.github.io) | Site portfólio hospedado no GitHub Pages | HTML · CSS |
-
----
-
-## 🌱 O que estou estudando agora
-
-- Levar um projeto de *script que funciona* para *software que uma equipe mantém*: **testes automatizados**, **CI** e **Docker**
-- **APIs REST** — expor os projetos por trás de uma API, além da interface local
-- Aprofundar **Java** com boas práticas e **SQL Server**, do banco à aplicação
-
----
-
-<p align="center">
-  <em>"Aprender na prática, evoluir com consistência."</em>
-</p>
+- Elevar projetos de script funcional a software mantível por uma equipe: testes automatizados, CI e containerização.
+- Projeto e consumo de APIs REST.
+- Aprofundamento em Java e SQL Server, do modelo de dados à aplicação.
