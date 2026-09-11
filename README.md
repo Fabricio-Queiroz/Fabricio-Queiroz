@@ -2,9 +2,7 @@
 
 ```
 $ whoami
-Estagiário de desenvolvimento num escritório de advocacia.
-Não fico esperando o ticket: vejo o problema acontecer na mesa ao lado
-e volto no dia seguinte com o software que resolve.
+Estagiário em Desenvolvimento de Software na Nitatori Advogados.
 
 $ stack --daily
 python · java · javascript · typescript · sql server · docker
